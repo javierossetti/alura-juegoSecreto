@@ -112,3 +112,6 @@ button {
 footer{
     background-color: #1875E8;
 }
+footer p {
+    color: white
+}
